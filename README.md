@@ -1,2 +1,2 @@
 # jenkinsautomation
-First date of jenkins 6/7/2024 (codebase for jenkins )
+First day of jenkins 6/7/2024 (codebase for jenkins )
